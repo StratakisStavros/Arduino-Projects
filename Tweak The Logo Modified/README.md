@@ -51,7 +51,7 @@ Tweak The Logo Modified/
 │   └── Arduino_Code.ino        → Arduino sketch (reads A0 and sends full 10‑bit value)
 ├── Processing Code/
 │   ├── Processing_Sketch.pde   → Processing sketch (visualisation & logging)
-│   └── Recording Example.csv    → Example of logged sensor data
+├── Recording Example.csv       → Example of logged sensor data
 ├── data/
 │   └── arduino_logo.png        → PNG image of the Arduino logo
 └── README.md                   → This file
